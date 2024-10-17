@@ -204,12 +204,3 @@ Model Selection: Trying different algorithms to find the best fit.
 Hyperparameter Tuning: Using techniques like grid search to optimise model performance.
 Validation: Employing cross-validation and evaluating with appropriate metrics.
 
-Code And Github Link:
-Google Colab link : https://colab.research.google.com/drive/1ZKrZwtcFAevOzQ0Mmd-NoxERyFC0xTJU?usp=sharing
-
-Github Repository link:
-https://github.com/nirupama0300/ML_Project_Weather_Type_Classification
-
-References:
-https://machinelearningmastery.com/introduction-to-regularization-to-reduce-overfitting-and-improve-generalization-error/
-https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
